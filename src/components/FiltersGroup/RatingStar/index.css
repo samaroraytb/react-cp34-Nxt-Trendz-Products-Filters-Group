@@ -1,0 +1,12 @@
+.rating-star-image {
+  width: 150px;
+}
+.raiting-seprate-style {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.up-stars-style {
+  margin-left: 15px;
+}

@@ -1,0 +1,13 @@
+.category-list-items {
+  margin: 10px 0px 10px 0px;
+}
+.filter-button-style {
+  background: none;
+  border: none;
+  color: grey;
+  font-weight: 500;
+  font-size: 18px;
+}
+.active-filter-css {
+  color: #0967d2;
+}
